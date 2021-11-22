@@ -11,4 +11,3 @@ I love astronomy and physics. My favorite programming languages are Python and F
 ## Presentations are listed in the following
 <a href="https://liuguanfu1119.github.io/Presentaions/Dynamical_tides_SE.pdf" target="_blank">Dynamical tides affect the evolution timescale of super
 Earth.</a>
-<embed src="https://liuguanfu1119.github.io/Presentaions/Dynamical_tides_SE.pdf" type="application/pdf"/>
