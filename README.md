@@ -9,5 +9,5 @@ I love astronomy and physics. My favorite programming languages are Python and F
 
 
 ## Presentations are listed in the following
-<a href="/presentaions/Dynamical_tides_SE.pdf" target="_blank">Dynamical tides affect the evolution timescale of super
+<a href="/Presentaions/Dynamical_tides_SE.pdf" target="_blank">Dynamical tides affect the evolution timescale of super
 Earth.</a>
