@@ -6,7 +6,8 @@ I am Guanfu Liu (刘观福). You can contact me at liugf6@mail2.sysu.edu.cn (wil
 
 I love astronomy and physics. My favorite programming languages are Python and Fortran.
 
-## I will upload my presentations soon
 
-## Presentation 1
-<a href="/presentaions/Dynamical_tides_SE.pdf" target="_blank">Dynamical tides of super-Earths.</a>
+
+## Presentations are listed in the following
+<a href="/presentaions/Dynamical_tides_SE.pdf" target="_blank">Dynamical tides affect the evolution timescale of super
+Earth.</a>
