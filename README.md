@@ -9,4 +9,4 @@ I love astronomy and physics. My favorite programming languages are Python and F
 ## I will upload my presentations soon
 
 ## Presentation 1
-<a href="username.github.io/folder/document.pdf" target="_blank">PDF.</a>
+<a href="liuguanfu1119.github.io/presentaions/Dynamical_tides_SE.pdf" target="_blank">Dynamical tides of super-Earths.</a>
