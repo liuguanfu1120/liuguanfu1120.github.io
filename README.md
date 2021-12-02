@@ -4,8 +4,12 @@
 I am Guanfu Liu (刘观福). You can contact me at liugf6@mail2.sysu.edu.cn (will expire on about 31th July 2022 because I will go for further study in Tsinghua University) or liugfphy@163.com.
 
 
-I love astronomy and physics. My favorite programming languages are Python and Fortran.
+I love astronomy and physics. I tend to solve all the scientific problems by using Python and Fortran. And I am open to learn any new effective programming language.
 
+## My research interests
+### I am doing some researches in exoplanets, especially in the simulation of the dynamical tides of Super-Earths.
+### I also show some interests in plasma lensing.
+### My resaerch interests are very diverse.
 
 
 ## Presentations are listed in the following
