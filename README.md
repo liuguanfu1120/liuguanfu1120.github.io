@@ -16,3 +16,4 @@ I love astronomy and physics. I tend to solve all the scientific problems by usi
 [16 October 2021](https://liuguanfu1120.github.io/Presentations/Dynamical_tides_SE.pdf) Dynamical tides affect the evolution timescale of super-Earth
 
 [30 November 2021](https://liuguanfu1120.github.io/Presentations/Plasma_lensing.pdf) Paper Guide: Bias in apparent dispersion measure due to de-magnification of plasma lensing on background radio sources
+[8 December 2021](https://liuguanfu1120.github.io/Presentations/Relaxation_new.pdf)Relaxation: A effective way to solve BVP
